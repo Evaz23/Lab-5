@@ -1,4 +1,4 @@
-import unalib from '../unalib/index.js';
+import { validationModule as unalib } from '../unalib';
 import assert from 'assert';
 
 // Pruebas
